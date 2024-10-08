@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "imagen": "imagen_1",
+        "nombre": "banana",
+        "importe": 220,
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "imagen": "imagen_2",
+        "nombre": "manzana",
+        "importe": 220,
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "imagen": "imagen_3",
+        "nombre": "mandarina",
+        "importe": 220,
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "imagen": "imagen_4",
+        "nombre": "pera",
+        "importe": 220,
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "imagen": "imagen_4",
+        "nombre": "limon",
+        "importe": 220,
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "imagen": "imagen_4",
+        "nombre": "anana",
+        "importe": 220,
+        "stock": 500
+    }
+
+]
